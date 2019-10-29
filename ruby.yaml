@@ -107,4 +107,3 @@ ruby-sass:
 ruby1.9.3:
   ubuntu:
     precise: [ruby1.9.3]
-

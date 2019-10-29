@@ -167,4 +167,3 @@ repositories:
     url: https://github.com/ros-gbp/urdfdom_headers-fuerte-release.git
     version: 0.2.1-4
 type: gbp
-

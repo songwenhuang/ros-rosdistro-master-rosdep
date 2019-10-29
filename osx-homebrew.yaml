@@ -688,4 +688,3 @@ zziplib:
   osx:
     homebrew:
       packages: [libzzip]
-
